@@ -1,0 +1,7 @@
+# Dependencies for image_sort.py
+Pillow
+sentence-transformers
+
+# Dependencies for yolo_preannotation.py
+ultralytics
+opencv-python
