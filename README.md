@@ -63,6 +63,28 @@ The manual review involved correcting object labels based on jersey characterist
 
 This human verification stage was essential to ensuring that the final annotations reflected the intended labeling scheme.
 
+## Sample Annotation Results
+
+The following examples demonstrate the bounding-box annotations and object labeling performed during the project. Each image is accompanied by its corresponding LabelMe JSON annotation file.
+
+### Sample 1
+
+![Football frame annotation](examples/sample_annotations/000a410cbde24a8398cb4bee8aeacc_f0015.jpg)
+
+[View LabelMe JSON](examples/sample_annotations/000a410cbde24a8398cb4bee8aeacc_f0015.json)
+
+### Sample 2
+
+![Football frame annotation](examples/sample_annotations/000a410cbde24a8398cb4bee8aeacc_f0118.jpg)
+
+[View LabelMe JSON](examples/sample_annotations/000a410cbde24a8398cb4bee8aeacc_f0118.json)
+
+### Sample 3
+
+![Football frame annotation](examples/sample_annotations/000a410cbde24a8398cb4bee8aeacc_f0220.jpg)
+
+[View LabelMe JSON](examples/sample_annotations/000a410cbde24a8398cb4bee8aeacc_f0220.json)
+
 ## Installation
 
 Clone the repository:
