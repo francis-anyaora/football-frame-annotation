@@ -1,0 +1,460 @@
+{
+  "version": "7.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "player1",
+      "points": [
+        [
+          1377.3137157206634,
+          634.7943987165179
+        ],
+        [
+          1437.9564423837562,
+          798.5782927291572
+        ]
+      ],
+      "group_id": null,
+      "description": "0.902",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player1",
+      "points": [
+        [
+          491.32668880540496,
+          592.4158873266103
+        ],
+        [
+          540.3161362613073,
+          730.6573743618102
+        ]
+      ],
+      "group_id": null,
+      "description": "0.846",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "referee",
+      "points": [
+        [
+          1176.3360570790817,
+          512.0950304926658
+        ],
+        [
+          1207.7268505470217,
+          615.2237008924225
+        ]
+      ],
+      "group_id": null,
+      "description": "0.805",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player2",
+      "points": [
+        [
+          614.4842604033801,
+          522.8148816167093
+        ],
+        [
+          669.4615444245726,
+          630.8487008924225
+        ]
+      ],
+      "group_id": null,
+      "description": "0.732",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player1",
+      "points": [
+        [
+          862.1258196149554,
+          468.7514100366709
+        ],
+        [
+          904.155421975593,
+          532.3155376271163
+        ]
+      ],
+      "group_id": null,
+      "description": "0.724",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player1",
+      "points": [
+        [
+          285.90053408907863,
+          506.85904213816843
+        ],
+        [
+          311.7362930989559,
+          598.8958738882714
+        ]
+      ],
+      "group_id": null,
+      "description": "0.709",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player2",
+      "points": [
+        [
+          669.6875199298469,
+          472.9110692861128
+        ],
+        [
+          716.9742995266133,
+          550.8104355863001
+        ]
+      ],
+      "group_id": null,
+      "description": "0.638",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player1",
+      "points": [
+        [
+          981.6447131098533,
+          472.53452098612877
+        ],
+        [
+          1005.5584832000827,
+          552.7237008924225
+        ]
+      ],
+      "group_id": null,
+      "description": "0.617",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player1",
+      "points": [
+        [
+          526.1529884942016,
+          488.44928866599525
+        ],
+        [
+          560.1843544257963,
+          569.1198916203314
+        ]
+      ],
+      "group_id": null,
+      "description": "0.591",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player2",
+      "points": [
+        [
+          1424.657376036352,
+          463.02694515306126
+        ],
+        [
+          1456.1324627919196,
+          527.8512519128307
+        ]
+      ],
+      "group_id": null,
+      "description": "0.575",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player1",
+      "points": [
+        [
+          575.7262140507406,
+          474.4867287285766
+        ],
+        [
+          605.9195917858889,
+          547.8925662633263
+        ]
+      ],
+      "group_id": null,
+      "description": "0.529",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player2",
+      "points": [
+        [
+          1082.020355847417,
+          461.5469970703125
+        ],
+        [
+          1111.4258301388581,
+          511.9073743618103
+        ]
+      ],
+      "group_id": null,
+      "description": "0.467",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player1",
+      "points": [
+        [
+          1212.0120824697067,
+          461.30164072464925
+        ],
+        [
+          1235.7880750368176,
+          540.9252315046674
+        ]
+      ],
+      "group_id": null,
+      "description": "0.458",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player2",
+      "points": [
+        [
+          559.8211569806316,
+          488.619000227651
+        ],
+        [
+          581.604655467865,
+          568.1550131950129
+        ]
+      ],
+      "group_id": null,
+      "description": "0.405",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player2",
+      "points": [
+        [
+          1189.231952587838,
+          458.0170682393613
+        ],
+        [
+          1204.780073630521,
+          506.29261539468484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ball",
+      "points": [
+        [
+          1199.7549117715114,
+          499.152272320994
+        ],
+        [
+          1207.0890954449808,
+          505.8487008924225
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "goalkeeper1",
+      "points": [
+        [
+          426.18970105036493,
+          466.81563517162033
+        ],
+        [
+          449.3746731268584,
+          531.6320169621094
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "pitch",
+      "points": [
+        [
+          0.6729817488620142,
+          553.6556399553506
+        ],
+        [
+          1089.507537576083,
+          473.78603930335396
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "pitch",
+      "points": [
+        [
+          1107.9851196722989,
+          473.6586771401807
+        ],
+        [
+          1917.634822249959,
+          506.0446652432871
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "goalbox",
+      "points": [
+        [
+          174.07897294394462,
+          436.6461193080591
+        ],
+        [
+          178.04460414024334,
+          538.4306533463935
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "goalbox",
+      "points": [
+        [
+          419.2871685817503,
+          428.05391838274517
+        ],
+        [
+          176.72272707481045,
+          437.3070578407756
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "goalbox",
+      "points": [
+        [
+          421.26998417989967,
+          428.7148569154616
+        ],
+        [
+          423.25279977804905,
+          520.5853129630491
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "player2",
+      "points": [
+        [
+          1567.049317648909,
+          555.4147389426175
+        ],
+        [
+          1612.5038631034545,
+          680.6466498888142
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "referee",
+      "points": [
+        [
+          1384.555965931397,
+          431.87600602390455
+        ],
+        [
+          1412.646771092266,
+          486.58774863373634
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ball",
+      "points": [
+        [
+          373.4410833770749,
+          510.8360228576474
+        ],
+        [
+          382.6413664627083,
+          518.8567824707636
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "000a410cbde24a8398cb4bee8aeacc_f0220.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}
